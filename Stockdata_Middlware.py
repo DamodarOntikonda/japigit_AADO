@@ -34,7 +34,7 @@ def main():
 
         else:
             output_file.close()
-            sys.exit("\nThank you!\n")
+            sys.exit("\nStock Quotes retrieved successfully!\n")
         #output_file.close()
 
 main()
